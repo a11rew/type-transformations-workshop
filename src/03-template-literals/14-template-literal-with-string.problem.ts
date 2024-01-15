@@ -1,4 +1,5 @@
-type Route = unknown;
+type Path = string;
+type Route = `/${Path}`;
 
 export const goToRoute = (route: Route) => {};
 
