@@ -26,5 +26,5 @@ type tests = [
           username: string;
         }
     >
-  >,
+  >
 ];
